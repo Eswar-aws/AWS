@@ -24,7 +24,22 @@ void m4()
 {
 	System.out.println("m4 method");
 }
+<<<<<<< Updated upstream
 class demo
 {
 	Sop("demo class");
 }
+=======
+class Mathe
+{
+	void add()
+	{
+		c=a+b;
+	}
+	void sub()
+	{
+		c=a-b;
+	}
+}
+
+>>>>>>> Stashed changes
