@@ -8,3 +8,7 @@ void m2()
 {
 	Sop("m2 method..");
 }
+void m4()
+{
+	sop("m4 method");
+}
