@@ -8,7 +8,7 @@ void m2()
 	S.o.p("hello");
 }
 
-<<<<<<< HEAD
+
 void main1()
 {
 	System.out.println("main1 method");
@@ -16,7 +16,6 @@ void main1()
 void main2()
 {
 	System.out.println("main2 method");
-=======
 void m3()
 {
 	System.out.println("m3 method");
@@ -24,5 +23,21 @@ void m3()
 void m4()
 {
 	System.out.println("m4 method");
->>>>>>> sec
+}
+
+class demo
+{
+	Sop("demo class");
+}
+
+Class Mathe
+{
+	void add()
+	{
+		c=a+b;
+	}
+	void sub()
+	{
+		c=a-b;
+	}
 }
