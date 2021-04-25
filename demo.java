@@ -2,9 +2,9 @@
 <h2> am AWS</h2>
 void m1()
 {
-	Sop("m1 method");
+	Sop("m1 method..");
 }
 void m2()
 {
-	Sop("m2 method");
+	Sop("m2 method..");
 }
