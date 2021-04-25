@@ -24,3 +24,7 @@ void m4()
 {
 	System.out.println("m4 method");
 }
+class demo
+{
+	Sop("demo class");
+}
