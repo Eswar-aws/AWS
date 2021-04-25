@@ -8,3 +8,8 @@ public void codeA()
 {
 	System.out.printnln("cda a");
 }
+
+public void codeB()
+{
+	System.out.println("Code b");
+}
