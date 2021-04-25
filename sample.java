@@ -24,13 +24,13 @@ void m4()
 {
 	System.out.println("m4 method");
 }
-<<<<<<< Updated upstream
+
 class demo
 {
 	Sop("demo class");
 }
-=======
-class Mathe
+
+Class Mathe
 {
 	void add()
 	{
@@ -41,5 +41,3 @@ class Mathe
 		c=a-b;
 	}
 }
-
->>>>>>> Stashed changes
